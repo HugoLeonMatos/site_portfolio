@@ -23,7 +23,7 @@ export const Contact: React.FC = () => {
   );
 };
 
-// Estilos inline (você pode mover isso para um arquivo CSS, se preferir)
+// Estilos inline (mover para codigo separado)
 const footerStyle: React.CSSProperties = {
   backgroundColor: '#333',
   color: '#fff',
